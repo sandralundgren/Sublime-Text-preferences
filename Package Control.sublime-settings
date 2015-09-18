@@ -1,18 +1,21 @@
 {
-	"in_process_packages":
-	[
-	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
-	"installed_packages":
-	[
-		"Emmet",
-		"Package Control",
-		"PackageResourceViewer",
-		"Sass",
-		"SassBeautify"
-	]
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "Color Highlighter",
+    "Dracula Color Scheme",
+    "EditorConfig",
+    "Emmet",
+    "Material Theme",
+    "Monokai Extended",
+    "Package Control",
+    "Sass",
+    "SASS Build",
+    "SassBeautify",
+    "Syntax Highlighting for Sass",
+    "Theme - Glacier"
+  ]
 }

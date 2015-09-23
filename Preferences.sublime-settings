@@ -24,6 +24,7 @@
     "Vintage",
     "AdvancedNewFile"
   ],
+  "itg_small_tabs": true,
   "line_padding_bottom": 1,
   "line_padding_top": 1,
   "open_files_in_new_window": false,
@@ -31,6 +32,7 @@
   "show_full_path": true,
   "tab_size": 2,
   "tabs_small": true,
+  "theme": "itg.flat.dark.meadow.sublime-theme",
   "translate_tabs_to_spaces": true,
   "word_wrap": false
 }
